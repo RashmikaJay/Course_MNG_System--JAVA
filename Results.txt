@@ -1,0 +1,4 @@
+Student Number: ST001
+Average Marks: 78
+Grade: A
+First class !
